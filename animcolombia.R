@@ -1,6 +1,6 @@
 # Animaciones Colombia 
 rm(list = ls())
-setwd("C:/Users/W/Google Drive/Gapminder/Datos")
+setwd("")
 library(gapminder);library(gganimate);library(gghighlight);library(ggrepel)
 library(ggplot2);library(dplyr);library(readr);library(tidyr)
 library(ggthemes);library(scales)
